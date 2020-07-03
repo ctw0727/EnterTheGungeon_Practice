@@ -150,7 +150,7 @@ public class Player_behavior : MonoBehaviour
 		Invoke("UnRoll",0.5f);
 	}
 	
-	void GetDamaged(Collider2D other){ // Need Test!
+	void GetDamaged(Collider2D other){ // Success
 		int Damage = 1;
 		if (other.name != "Environment Damage"){
 			Damage_Script Dmg = other.gameObject.GetComponent<Damage_Script>();
