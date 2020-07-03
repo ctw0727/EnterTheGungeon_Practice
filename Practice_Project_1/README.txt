@@ -13,6 +13,9 @@ Space : Dodge
 Mouse left : Shoot
 R : Reload
 
+1~5 Key : Weapon Change
+Arrow left and right : Weapon Change
+
 ----------------
 
 v.0.0.1
