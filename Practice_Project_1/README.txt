@@ -2,7 +2,7 @@
 This Project just came out from some of my practices.
 Anyone can Copy or Rescript its codes if they want.
 
-Coded by REdColFOX
+Coded by Apa_Carot
 Contact : ctw0727@naver.com
 
 --- Control ---
